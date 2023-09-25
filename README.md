@@ -20,8 +20,5 @@
     <img style="vertical-align: middle;" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img style="vertical-align: middle;" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
-<br>
-<p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/GustavoE05/count.svg" />
-</p>
+
   ##
